@@ -1,5 +1,5 @@
-# PSHA_test
-===========
+# Testing probablistic seismic hazard models
+=================================================================
 
 Codes for testing probablistic seismic hazard models as published in: 
 
