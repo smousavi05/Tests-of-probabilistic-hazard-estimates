@@ -1,5 +1,5 @@
 # Testing probablistic seismic hazard models
-=================================================================
+=====================================================================================
 
 Codes for testing probablistic seismic hazard models as published in: 
 
@@ -15,7 +15,7 @@ Hazard curves in probabilistic seismic hazard assessment (PSHA) models are used 
 ## Data
 ![Data](Fig1.png)
 
-## Monte Carlo sampling method for estimating Possonian probabilities associated with our Bernoli variables
+Monte Carlo sampling method for estimating Possonian probabilities associated with our Bernoli variables
 ![Monte Carlo sampling method for estimating Possonian probabilities associated with our Bernoli variables](Fig2.png)
 
 ## Results
