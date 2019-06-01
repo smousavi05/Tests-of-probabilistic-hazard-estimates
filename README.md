@@ -8,6 +8,8 @@ Codes for testing probablistic seismic hazard models as published in:
  Evaluating the 2016-One-Year Seismic Hazard Model for the Central and Eastern United States Using Instrumental Ground Motion Data, 
  Seismological Research Letters`
 
+------------------------------------------
+
 BibTeX:
 
     @article{mostafa2018evaluating,
